@@ -9,10 +9,24 @@ body {
 	font-size: 32px;
 }
 
-.recipe {
-	font-size: 24px;
+.recipes,
+.steps {
 	background-color: #d9ffd4;
 	color: #0e001f;
+}
+
+.recipes {
+	font-size: 24px;
+}
+
+.steps {
+	text-align: left;
+	font-size: 16px;;
+}
+
+.nav {
+	background-color: salmon;
+	font-size: 24px;
 }
 
 img {
